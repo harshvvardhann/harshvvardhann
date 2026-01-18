@@ -9,6 +9,8 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=harshvvardhann" alt="harshvvardhann" />
   </a>
+</a>
+
 </p>
 
 ---
@@ -26,20 +28,13 @@
 
 ---
 
-### 📝 Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rajputharshvardhansingh" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
   </a>
-  <a href="[https://leetcode.com/harshvvardhann](https://leetcode.com/u/harshv_260504/)" target="_blank">
+  <a href="https://leetcode.com/u/harshv_260504" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" alt="LeetCode Profile" height="30" width="40" />
 </a>
 </p>
